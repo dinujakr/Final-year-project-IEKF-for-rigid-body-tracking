@@ -1,7 +1,5 @@
-# Final-year-project-IEKF-for-rigid-body-tracking
+# Intrinsic Extended Kalman Filter for rigid body attitude tracking
 Simulation and experimental verification of Intrinsic Extended Kalman Filter for rigid body attitude tracking
-
-# IEKF-Based Rigid Body Attitude Estimation on SO(3)
 
 An implementation of an **Intrinsic Extended Kalman Filter (IEKF)** for rigid body attitude estimation using IMU measurements. The project investigates the advantages of **Lie Group** filtering on **SO(3)** compared to conventional **Extended Kalman Filters (EKF)**, particularly under aggressive rotational motion.
 
